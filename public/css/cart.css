@@ -1,0 +1,28 @@
+.tampilanUtama{
+    display: flex;
+    justify-content: center;
+    height: 84vh;
+    width: 100%;
+    padding-top: 50px;
+}
+
+.cartContainer{
+    width: 80%;
+}
+
+.cartContainer h1{
+    text-decoration: underline;
+}
+
+.cartItems{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}

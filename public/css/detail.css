@@ -1,0 +1,14 @@
+.tampilanUtama{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 84vh;
+    width: 100%;
+}
+
+.detailContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+}

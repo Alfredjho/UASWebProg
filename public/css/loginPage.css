@@ -1,0 +1,8 @@
+.tampilanUtama{
+    height: 84vh;
+    width: 100%;
+}
+
+.tampilanUtama h3{
+    text-decoration: underline;
+}

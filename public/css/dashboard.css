@@ -1,0 +1,29 @@
+.tampilanUtama{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 84vh;
+    width: 100%;
+}
+
+.mainContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    /* background-color: yellow; */
+    width: 80%;
+    height: 500px;
+}
+
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 12rem;
+}
+
